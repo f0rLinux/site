@@ -1,3 +1,3 @@
-** Codelumo **
+**Codelumo**
 ---
-### HTML static ###
+### HTML static
